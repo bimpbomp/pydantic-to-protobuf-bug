@@ -13,7 +13,7 @@ Steps to reproduce the behavior:
 2. Open "vector_tile_p2p.py"
 3. See error
 
-The repo located [here]() reconstructs the scenario.
+The repo located [here](https://github.com/bimpbomp/pydantic-to-protobuf-bug) reconstructs the scenario.
 
 **Expected behavior**
 1. The initial occurences of Feature and Value classes should not be present.
