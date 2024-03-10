@@ -1,0 +1,1 @@
+# pydantic-to-protobuf-bug
